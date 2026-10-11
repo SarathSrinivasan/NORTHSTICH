@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 120" role="img" aria-label="NORTHSTITCH WORKWEAR">
+  <g fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M22 76 L48 28 L74 76"/>
+    <path d="M35 55 H61"/>
+    <path d="M92 29 V76 M92 29 L132 76 V29"/>
+  </g>
+  <text x="150" y="55" font-family="Georgia,serif" font-size="30" letter-spacing="5" fill="currentColor">NORTHSTITCH</text>
+  <text x="151" y="83" font-family="Arial,sans-serif" font-size="13" letter-spacing="4" fill="currentColor">WORKWEAR CO.</text>
+</svg>

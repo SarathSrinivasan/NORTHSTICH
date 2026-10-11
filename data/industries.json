@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Healthcare",
+    "desc": "Clinical uniforms, polished outer layers and coordinated teams.",
+    "garments": "Scrubs \u2022 Jackets \u2022 Polos"
+  },
+  {
+    "name": "Construction",
+    "desc": "Durable workwear and visible branding for crews in motion.",
+    "garments": "Work Shirts \u2022 Safety \u2022 Outerwear"
+  },
+  {
+    "name": "Hospitality",
+    "desc": "Guest-facing apparel designed around service, comfort and consistency.",
+    "garments": "Aprons \u2022 Shirts \u2022 Polos"
+  },
+  {
+    "name": "Retail",
+    "desc": "Branded uniforms that make the floor feel considered and cohesive.",
+    "garments": "Polos \u2022 Jackets \u2022 Accessories"
+  },
+  {
+    "name": "Automotive",
+    "desc": "Shop-ready garments balancing movement, durability and identity.",
+    "garments": "Work Shirts \u2022 Pants \u2022 Jackets"
+  },
+  {
+    "name": "Corporate / Office",
+    "desc": "Client-facing apparel with understated, executive branding.",
+    "garments": "Oxfords \u2022 Polos \u2022 Softshells"
+  },
+  {
+    "name": "Logistics",
+    "desc": "Layerable uniforms for warehouses, drivers and operations teams.",
+    "garments": "Safety \u2022 Workwear \u2022 Outerwear"
+  },
+  {
+    "name": "Facilities",
+    "desc": "Practical, consistent apparel for mobile service teams.",
+    "garments": "Polos \u2022 Work Shirts \u2022 Pants"
+  }
+]

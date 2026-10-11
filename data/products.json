@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Meridian Performance Polo",
+    "category": "Polos",
+    "industry": "Corporate",
+    "desc": "Polished moisture-management polo designed for daily branded wear.",
+    "colors": "6 colors",
+    "image": "https://images.unsplash.com/photo-1586790170083-2f9ceadc732d?auto=format&fit=crop&w=1000&q=85"
+  },
+  {
+    "name": "Foundry Oxford Shirt",
+    "category": "Dress Shirts",
+    "industry": "Corporate",
+    "desc": "Structured oxford with a clean profile for client-facing teams.",
+    "colors": "5 colors",
+    "image": "https://images.unsplash.com/photo-1603252110481-7ba873bf42ab?auto=format&fit=crop&w=1000&q=85"
+  },
+  {
+    "name": "Forge Utility Shirt",
+    "category": "Work Shirts",
+    "industry": "Construction",
+    "desc": "Hard-wearing woven shirt with room for movement and branding.",
+    "colors": "4 colors",
+    "image": "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?auto=format&fit=crop&w=1000&q=85"
+  },
+  {
+    "name": "Atlas Softshell",
+    "category": "Jackets",
+    "industry": "Logistics",
+    "desc": "Weather-ready outer layer with a premium corporate finish.",
+    "colors": "4 colors",
+    "image": "https://images.unsplash.com/photo-1544966503-7cc5ac882d5f?auto=format&fit=crop&w=1000&q=85"
+  },
+  {
+    "name": "Fieldmark Safety Vest",
+    "category": "Safety",
+    "industry": "Construction",
+    "desc": "High-visibility layer engineered for active work environments.",
+    "colors": "3 colors",
+    "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&w=1000&q=85"
+  },
+  {
+    "name": "Harbor Scrub Set",
+    "category": "Scrubs",
+    "industry": "Healthcare",
+    "desc": "Clean, comfortable uniform set for clinical and support teams.",
+    "colors": "8 colors",
+    "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1000&q=85"
+  },
+  {
+    "name": "Service Apron System",
+    "category": "Hospitality",
+    "industry": "Hospitality",
+    "desc": "Refined hospitality apron with configurable embroidery zones.",
+    "colors": "7 colors",
+    "image": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=1000&q=85"
+  },
+  {
+    "name": "Transit Work Pant",
+    "category": "Work Pants",
+    "industry": "Logistics",
+    "desc": "Straight-fit work pant built for long shifts and repeat wear.",
+    "colors": "4 colors",
+    "image": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?auto=format&fit=crop&w=1000&q=85"
+  }
+]
